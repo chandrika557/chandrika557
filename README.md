@@ -1,12 +1,22 @@
-# Jaya Chandrika's GitHub Profile 👩‍💻
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F87900&size=35&center=true&vCenter=true&lines=Hi,+There!+👋;Jaya+Chandrika+btw...;Nice+to+meet+you+😄!">
+  </a>
+</h1>
 
-## About Me ℹ️
-Hello! 👋 I'm Jaya Chandrika, a final year Computer Science student passionate about coding and technology. 🚀 Currently pursuing my Bachelor's degree.
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=chandrika557&column=10&theme=react&no-bg=true&margin-h=50&count_private=true&show_icons=true"/>
+    </a>
+</p>
 
-## Education 🎓
+# About Me
+Hello! 👋 I'm Jaya Chandrika  a final year Computer Science student passionate about coding and technology.  🚀 Currently pursuing my Bachelor's degree.
+
+# Education 🎓
 - Final Year Bachelor's in Computer Science 🖥️
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_itschandrika?igsh=eGI5ZHNxZTZoOG51) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaya-chandrika-8a138924a ) 
 
 # 💻 Tech Stack:
